@@ -25,6 +25,20 @@ Log analysis concepts
 Security Information and Event Management (SIEM) fundamentals
 Intrusion Detection System (IDS) concepts
 Network security fundamentals
+
+# Threats & Attack Awarenesss skills
+Phishing, spear phishing, vishing, and social media phishing
+Malware and computer viruses
+Business Email Compromise (BEC)
+Password attacks
+Social engineering and physical social engineering
+USB baiting
+Supply-chain attacks
+
+Watering hole attacks
+
+Insider threats
+
 Database and data concepts
 SQL fundamentals (learning)
 Programming and scripting basics (learning)
